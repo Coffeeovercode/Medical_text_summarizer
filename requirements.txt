@@ -1,0 +1,7 @@
+# Core Libraries
+transformers
+sentencepiece
+torch
+
+# Data Handling
+pandas
